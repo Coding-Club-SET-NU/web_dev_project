@@ -35,14 +35,10 @@ The goal of this repository is to **improve practical web development skills by 
 
 Here are some of the projects included in this repository:
 
-| Project | Description |
-|------|-------------|
-| 🎨 Color Palette Generator | Generate random color palettes and copy hex codes |
-| 📝 To-Do List | Add, delete, and manage daily tasks |
-| 🔢 Counter App | Simple counter using JavaScript |
-| 🌗 Dark Mode Toggle | Toggle between light and dark themes |
-| 🎲 Random Quote Generator | Generates random quotes |
-| 📱 Responsive Landing Page | Mobile-friendly website layout |
+| Project | Description | What I Learned from the Project |
+|--------|-------------|----------------------------------|
+|    01 Quiz Game | Quiz Game Website | Dom , Css - Transition |
+| 🎨 Color Palette Generator | Generate random color palettes and copy hex codes | Copy to clipboard , Sibling , Async .then .catch |
 
 *(More projects will be added as I continue learning.)*
 
